@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 1 line
-Second line
+Seco
+`:wqnd line
 >>>>>>> 1ff8861 (First commit from new_branch)
+=======
+3 line
+>>>>>>> Stashed changes
